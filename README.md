@@ -1,5 +1,5 @@
 
- gg.alert("ขอบคุณ 𝑪𝒉𝒆𝒂𝒕𝑨𝒄𝒕𝒊𝒐𝒏 ด้วยครับ\n\n\n กด ตกลงเพื่อเข้าสู่ระบบ")
+ gg.alert("ทดลองใช้ฟรี 3 วัน ถาวร 100 บาท \n\n\n กด ตกลงเพื่อเข้าสู่ระบบ")
 function SearchWrite(Search, Write, Type)
   gg.clearResults()
   gg.setVisible(false)
